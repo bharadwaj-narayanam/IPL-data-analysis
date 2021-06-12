@@ -5,9 +5,9 @@ We are given the data of 11 years of IPL matches. In this rep, our main theme is
 
 For this, we have selected some factors which we thought would might essentially affect the cahnce of victory, they are as follows:
 
---Toss winning
---Extra runs given
---Effect of a particular player’s performance
+- Toss winning
+- Extra runs given
+- Effect of a particular player’s performance
 --No.of Boundaries
 --Average Run Rate
 --Batting first
