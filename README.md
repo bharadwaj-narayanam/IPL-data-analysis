@@ -8,9 +8,9 @@ For this, we have selected some factors which we thought would might essentially
 - Toss winning
 - Extra runs given
 - Effect of a particular player’s performance
---No.of Boundaries
---Average Run Rate
---Batting first
+- No.of Boundaries
+- Average Run Rate
+- Batting first
 
 And we also thought that it would be good to analyse some trends in the data. Trends we analysed are as follows:
 
