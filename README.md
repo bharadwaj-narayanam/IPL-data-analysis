@@ -3,7 +3,7 @@ This is an analysis of IPL data from 2008-19.
 
 We are given the data of 11 years of IPL matches. In this rep, our main theme is to have a look at those factors which could possibly affect the winning of a particular team and try to get a correlation of those factors with the probability of victory.
 
-For this, we have selected some factors which we thought would might essentially affect the cahnce of victory, they are as follows:
+For this, we have selected some factors which we thought would might essentially affect the chance of victory, they are as follows:
 
 - Toss winning
 - Extra runs given
