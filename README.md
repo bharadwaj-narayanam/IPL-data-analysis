@@ -14,7 +14,7 @@ For this, we have selected some factors which we thought would might essentially
 
 And we also thought that it would be good to analyse some trends in the data. Trends we analysed are as follows:
 
---Runs given by Pacers and spinners
---Wickets taken by Pacers and spinners
---Winning percentage based on extra runs given
---Inning wise winning percentage
+- Runs given by Pacers and spinners
+- Wickets taken by Pacers and spinners
+- Winning percentage based on extra runs given
+- Inning wise winning percentage
